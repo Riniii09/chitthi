@@ -8,6 +8,7 @@ from google import genai
 # password = 'password'
 # api_key = 'YOURAPIKEY'
 
+# When using a gmail account
 imap_server = 'imap.gmail.com'
 
 imap = imaplib.IMAP4_SSL(imap_server)
